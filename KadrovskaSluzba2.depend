@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1632059292 source:c:\users\djole srdjan\desktop\kadrovskasluzba2\main.cpp
+	<iostream>
+	<typeinfo>
+	<string>
+	<map>
+	<string>
+	<vector>
+	<locale>
+	"Radnik.h"
+
+1632073195 c:\users\djole srdjan\desktop\kadrovskasluzba2\include\radnik.h
+	<iostream>
+	<typeinfo>
+	<string>
+	<map>
+	<string>
+	<vector>
+	<locale>
+	<map>
+	<iomanip>
+	<algorithm>
+
+1632058902 source:c:\users\djole srdjan\desktop\kadrovskasluzba2\src\radnik.cpp
+	"Radnik.h"
+
